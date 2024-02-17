@@ -1,7 +1,7 @@
 # Ignotum_Glitch
 ### To do:
-- [] Make upgrade this README.
-- [] Start wworking on a game.
+- [ ] Make upgrade this README.
+- [ ] Start wworking on a game.
 #### [*Other placer where I can be found*](https://pastebin.com/V2M6RfLR)
 <!-- An FAQ/Q&A? No, just saying what shit I'm doing, even tho no one cares... -->
 

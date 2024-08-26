@@ -1,8 +1,10 @@
 # Ignotum_Glitch
 ### To do:
-- [ ] Make upgrade this README.
-- [ ] Start wworking on a game.
-#### [*Other placer where I can be found*](https://pastebin.com/V2M6RfLR)
+- [ ] Make upgrade to this README.
+- [ ] Start working on a game.
+- [ ] Update the profile.
+- [ ] Make a web tool for fun.
+- [ ] Get popular.
 <!-- An FAQ/Q&A? No, just saying what shit I'm doing, even tho no one cares... -->
 
 <!-- And mayybe it'll be my portfolio or some "about me" shit... heh -->
